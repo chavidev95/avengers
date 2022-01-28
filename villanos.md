@@ -2,4 +2,4 @@
 
 * Dr. Doom
 * Red Skull
-* Dir. Herrera
+* Capitán América
